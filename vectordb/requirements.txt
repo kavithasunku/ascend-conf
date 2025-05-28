@@ -1,0 +1,7 @@
+streamlit
+sshtunnel
+openai
+pgvector
+psycopg[binary,pool]
+python-dotenv
+azure.identity
